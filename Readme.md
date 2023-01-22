@@ -9,6 +9,7 @@
 -   Javascript engine: **Nodejs**
 -   Bundler: **vite**
 -   Language: **Typescript**
+-   Developer tools: **Eslint** and **Prettier**
 -   Frontend framework: **React**
 -   State management: **React state**
 -   Styles: **styled-components**
