@@ -25,3 +25,10 @@
 # How to run tests
 
 -   npm run test
+
+# Self-assessment
+My main focus was to set up as realistic running environment as possible. Because of this, I spent some time setting up Eslint and Prettier, since these are usually used when making business software. This is why I also selected Typescript and styled-components.
+
+I also wanted to experiment with some tools that I have not much experience, but have heard that are useful. This is why I opted for Vite instead of the more used Webpack, and wrote the tests using React Testing Library.
+
+One of the things I spent less focus where styling, as creating beautiful UI components would take some time, so I have mostly focused on creating a functional UI with a styling structure that can easily be expanded.
