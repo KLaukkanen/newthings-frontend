@@ -20,6 +20,7 @@
 
 -   npm install
 -   npm run dev
+-   Vite runs the web server by default on port 5173 (link will show up on terminal). The frontend looks the backend on port 3001.
 
 # How to run tests
 
